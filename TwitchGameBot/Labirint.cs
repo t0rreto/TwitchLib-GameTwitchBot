@@ -244,7 +244,7 @@ namespace TwitchGameBot
             using (var webClient = new WebClient())
             {
                 var pars = new NameValueCollection();
-                pars.Add("key", "18f19499d240283694934f8b2d144dc4");
+                pars.Add("key", Setting.ibbApiKey);
                 pars.Add("image", ImgToString(path));
                 pars.Add("expiration", "10000");
                 var response = webClient.UploadValues(url, pars);
