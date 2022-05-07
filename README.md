@@ -1,5 +1,5 @@
-![](https://img.shields.io/github/issues/t0rreto/PostregeSql-Qt)
-![](https://img.shields.io/github/languages/code-size/t0rreto/PostregeSql-Qt)
+![](https://img.shields.io/github/issues/t0rreto/GameTwitchBot)
+![](https://img.shields.io/github/languages/code-size/t0rreto/GameTwitchBot)
 
 
 <div align="center"> <h1> TwitchGameBot </h1> </div>
